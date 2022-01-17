@@ -1,0 +1,9 @@
+img{
+    height: 75px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-items: center;
+  }
